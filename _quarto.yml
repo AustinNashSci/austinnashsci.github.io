@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Austin Nash"
+  favicon: media/logo.jpg
+  navbar:
+    title: Austin Nash
+    logo: media/logo.jpg
+    right:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - href: images.qmd
+        text: Images
+      
+  page-footer:
+    background: dark
+    left: Copyright 2025, Austin Nash
+
+format:
+  html:
+    theme: 
+      - yeti
+      - styles.scss
+    toc: true
+    mainfont: Figtree
+
+editor: visual
+

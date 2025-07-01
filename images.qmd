@@ -1,0 +1,31 @@
+---
+title: "Wildlife and Landscapes"
+---
+
+![Front Range, Colorado](media/Plains%20Toad.jpg)
+
+![Druid Peak, Yellowstone National Park](media/Druid%20Peak.jpg)
+
+![Galapagos Islands, Ecuador](media/MarineIguana.jpg)
+
+![Los Angeles, California](media/6Nash_final.jpg)
+
+![The Narrows, Zion National Park](media/American%20Dipper.jpg)
+
+![Black Lake, Rocky Mountain National Park](media/McHenry's.jpg)
+
+![Kane County, Utah](media/Buffalo.jpg)
+
+![Jackson Lake, Grand Teton National Park](media/GrandTetons.jpg)
+
+![Giant Forest, Sequoia National Park](media/Chipmunkog.jpg)
+
+![Yosemite Valley, Yosemite National Park](media/half%20shadow.jpg)
+
+![Indian Creek, Utah](media/Indian%20Creek%20Tower.jpg)
+
+![Rocky Mountain Biological Laboratory, Colorado](media/Marmots2.jpg) 
+
+![Yosemite Valley, Yosemite National Park](media/HalfBW.jpg)
+
+![Snake River Overlook, Grand Teton National Park](media/Jackson's%20Hole.jpg)

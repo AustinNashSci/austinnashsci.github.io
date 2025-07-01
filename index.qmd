@@ -1,0 +1,20 @@
+---
+title: "About Me"
+image: "media/headshot.jpg"
+toc: false
+about: 
+  template: jolla
+  links: # create buttons
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/austinnash01/
+      target: _blank # opens link in a new browser tab
+    - icon: envelope
+      text: Email
+      href: mailto:austin.nash@oregonstate.edu
+      target: _blank
+---
+
+I am a PhD student in the Twining Applied Quantitative Ecology Lab at Oregon State University in the department of Fisheries, Wildlife, and Conservation Sciences. Previously, I was a Presidential Management Fellow at the US Geological Survey working on applied wildlife research in the sagebrush biome of the American West. I completed both my master's and bachelor's degrees in the Department of Ecology and Evolutionary Biology with an additional specialization in computer science and geographic information science at the University of Colorado Boulder, where I was an Astronaut Scholar. I have conducted ecological research with local non-profits, state wildlife agencies, federal land management and wildlife agencies, and academia. In addition to research, I enjoy fishing, mountain biking, trail running, rock and ice climbing, surfing, skiing, and most other things outdoors. 
+
+

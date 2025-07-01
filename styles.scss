@@ -1,0 +1,41 @@
+/*-- scss:defaults --*/
+
+// Imports
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+
+// Colors
+ 
+$cream: #E3E1CA;
+$brown: #4f473b;
+$dark-brown: #312e28;
+$white: #FFFFFF;
+$black: #000000;
+ 	 
+ 
+
+// Base document colors
+$navbar-bg: $dark-brown; // navbar
+$navbar-fg: $white; // navbar foreground elements
+$navbar-hl: $cream; // highlight color when hovering over navbar links
+$body-bg: $brown; // page background 
+$body-color: $white; // page text 
+$footer-bg: $brown; // footer 
+$link-color: $cream; // hyperlinks 
+
+// Inline code
+$code-bg: $cream; // inline code background color
+$code-color: $black; // inline code text color
+
+
+/*-- scss:rules --*/
+// Logo
+.navbar-brand img { 
+  max-height: 50px;
+  width: auto;
+}
+
+img {
+    pointer-events: none;
+}
